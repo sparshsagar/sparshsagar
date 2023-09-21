@@ -8,8 +8,7 @@ My GitHub journey is a testament to the belief that technology is a force for po
 
 Thank you for visiting my GitHub profile. I look forward to engaging with fellow professionals and enthusiasts who share my passion for cutting-edge technology and its limitless potential.
 
-🔭 I’m currently working on Sentiment Analysis using Python on a Twitter dataset
-🌱 I’m currently learning TensorFlow
+🔭 I’m currently working on Sentiment Analysis using Python on a Twitter dataset 
 
 
 
